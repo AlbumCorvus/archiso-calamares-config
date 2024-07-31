@@ -28,6 +28,7 @@ The examples are not exhaustive.
 /* ########## MAIN APPLICATION WINDOW ########## */
 
 #mainApp {
+background-color: #ffffff;
 }
 
 #mainText{
