@@ -35,7 +35,7 @@ Presentation
 
     Image {
         id: background1
-        source: "Captura desde 2024-07-30 23-11-40.png"
+        source: "SlideOne.png"
         width: parent.width; height: parent.height
         verticalAlignment: Image.AlignTop
         fillMode: Image.Stretch
@@ -59,7 +59,7 @@ Presentation
 
     Image {
         id: background2
-        source: "Captura desde 2024-07-30 23-12-54.png"
+        source: "SlideTwo.png"
         width: parent.width; height: parent.height
         verticalAlignment: Image.AlignTop
         fillMode: Image.Stretch
