@@ -166,7 +166,7 @@ images:
     productIcon:         "squid.png"
     productLogo:         "squid.png"
     # productWallpaper:    "wallpaper.png"
-    productWelcome:      "Captura desde 2024-07-30 23-11-31.png"
+    productWelcome:      "Main.png"
 
 # Colors for text and background components.
 #
